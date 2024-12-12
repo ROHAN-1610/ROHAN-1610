@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan-1610&label=Profile%20views&color=0e75b6&style=flat" alt="rohan-1610" /> </p>
 
-- 🔭 I’m currently studying in the field of Computer Science [Heart Disease Prediction](https://github.com/ROHAN-1610/heart_disease_prediction)
+- 🔭 I’m currently studying in the field of Computer Science
 
 - 🌱 I’m currently learning **Django, ReactJS, and Flask**
 
