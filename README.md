@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **Email: vrohan1610@gmail.com | LinkedIn: https://www.linkedin.com/in/rohan011aab253**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/17JiiNyKY0-anI0mxMws36iZ_o8qj_0pi)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1e_Yj_npHcUC7LUWdTGBzaCpRAPYbsDZI/view?usp=sharing)
 
 - ⚡ Fun fact **My favorite programming language? It depends on the error I’m facing. 😅**
 
