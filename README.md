@@ -1,6 +1,3 @@
-GitHub readme -old
-
-
 ![logo](https://github.com/ROHAN-1610/ROHAN-1610/blob/main/Github-banner.png)
 <h1 align="center">Hi 👋, I'm Rohan Verma</h1>
 <h3 align="center">Aspiring Java Backend Developer | PG-DAC (Pursuing)</h3>
